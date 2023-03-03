@@ -3,3 +3,4 @@ model 3
 model s
 model y
 cyber truck
+starlink
